@@ -1,6 +1,13 @@
-# okul-yonetim-sistemi
-Proje Adı: Okul Yönetim Sistemi
+# Okul Yönetim Sistemi
 
-Kullanılan Teknolojiler: C#, SQL, (kullandığın diğer araçlar)
+Bu proje, bir okul içerisindeki idari süreçleri yönetmek amacıyla geliştirilmiş masaüstü uygulamasıdır.
 
-Ne İşe Yarar?: "İdari personel girişli, veritabanı bağlantılı, bölüm ve öğrenci kayıt sistemi."
+### Temel Özellikler
+- **İdari Personel Girişi:** Yetkilendirilmiş kullanıcı girişi.
+- **Veri Yönetimi:** Öğrenci, bölüm ve ders kayıt işlemleri.
+- **İlişkisel Veritabanı:** Bölüm-Öğrenci ilişkilerinin doğru bir şekilde yönetilmesi.
+
+### Kullanılan Teknolojiler
+- C#
+- Windows Forms
+- SQL
